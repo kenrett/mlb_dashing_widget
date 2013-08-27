@@ -4,8 +4,6 @@ gem 'dashing'
 
 gem 'twitter'
 
-gem 'capybara'
-
-gem 'selenium-webdriver'
+gem 'mechanize'
 
 gem 'pry-rails'
