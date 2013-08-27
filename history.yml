@@ -1,9 +1,9 @@
 ---
 convergence: |+
-  data: {"points":[{"x":338,"y":31},{"x":339,"y":39},{"x":340,"y":32},{"x":341,"y":32},{"x":342,"y":29},{"x":343,"y":37},{"x":344,"y":35},{"x":345,"y":13},{"x":346,"y":4},{"x":347,"y":19}],"id":"convergence","updatedAt":1377585292}
+  data: {"points":[{"x":11641,"y":37},{"x":11642,"y":21},{"x":11643,"y":30},{"x":11644,"y":30},{"x":11645,"y":39},{"x":11646,"y":21},{"x":11647,"y":6},{"x":11648,"y":17},{"x":11649,"y":27},{"x":11650,"y":10}],"id":"convergence","updatedAt":1377642528}
 
 buzzwords: |+
-  data: {"items":[{"label":"Exit strategy","value":7},{"label":"Paradigm shift","value":9},{"label":"Turn-key","value":9},{"label":"Web 2.0","value":11},{"label":"Streamlininess","value":14},{"label":"Pivoting","value":7},{"label":"Enterprise","value":8},{"label":"Leverage","value":0},{"label":"Synergy","value":2}],"id":"buzzwords","updatedAt":1377585292}
+  data: {"items":[{"label":"Streamlininess","value":7},{"label":"Enterprise","value":20},{"label":"Pivoting","value":27},{"label":"Leverage","value":25},{"label":"Web 2.0","value":6},{"label":"Exit strategy","value":28},{"label":"Synergy","value":26},{"label":"Turn-key","value":28},{"label":"Paradigm shift","value":13}],"id":"buzzwords","updatedAt":1377642528}
 
 valuation: |+
   data: {"current":96,"last":20,"id":"valuation","updatedAt":1377584528}

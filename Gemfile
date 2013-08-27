@@ -4,6 +4,6 @@ gem 'dashing'
 
 gem 'twitter'
 
-gem 'mechanize'
+gem 'nokogiri'
 
 gem 'pry-rails'
